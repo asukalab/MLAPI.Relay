@@ -5,8 +5,8 @@
       "ReliableFragmentedSequenced",
       "ReliableSequenced",
       "UnreliableSequenced",
-      "Unreliable"
-      "Unreliable"
+      "Unreliable",
+      "Unreliable",
       "Reliable",
       "UnreliableSequenced",
       "ReliableSequenced",
