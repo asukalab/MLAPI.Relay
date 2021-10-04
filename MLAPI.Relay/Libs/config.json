@@ -3,12 +3,15 @@
   "TransportConfig": {
     "Channels": [
       "ReliableFragmentedSequenced",
+      "ReliableSequenced",
+      "UnreliableSequenced",
+      "Unreliable"
+      "Unreliable"
       "Reliable",
       "UnreliableSequenced",
       "ReliableSequenced",
       "ReliableSequenced",
-      "UnreliableSequenced",
-      "Unreliable"
+      "UnreliableSequenced"
     ],
     "MaxConnections": 100,
     "ConnectionConfig": {
